@@ -1,0 +1,13 @@
+C:\Users\Pak\source\repos\Graphs\DFS-BFS-queue\Graph-BFS-DFS\bin\Debug\netcoreapp3.1\Graph-BFS-DFS.exe
+C:\Users\Pak\source\repos\Graphs\DFS-BFS-queue\Graph-BFS-DFS\bin\Debug\netcoreapp3.1\Graph-BFS-DFS.deps.json
+C:\Users\Pak\source\repos\Graphs\DFS-BFS-queue\Graph-BFS-DFS\bin\Debug\netcoreapp3.1\Graph-BFS-DFS.runtimeconfig.json
+C:\Users\Pak\source\repos\Graphs\DFS-BFS-queue\Graph-BFS-DFS\bin\Debug\netcoreapp3.1\Graph-BFS-DFS.runtimeconfig.dev.json
+C:\Users\Pak\source\repos\Graphs\DFS-BFS-queue\Graph-BFS-DFS\bin\Debug\netcoreapp3.1\Graph-BFS-DFS.dll
+C:\Users\Pak\source\repos\Graphs\DFS-BFS-queue\Graph-BFS-DFS\bin\Debug\netcoreapp3.1\Graph-BFS-DFS.pdb
+C:\Users\Pak\source\repos\Graphs\DFS-BFS-queue\Graph-BFS-DFS\obj\Debug\netcoreapp3.1\Graph-BFS-DFS.csprojAssemblyReference.cache
+C:\Users\Pak\source\repos\Graphs\DFS-BFS-queue\Graph-BFS-DFS\obj\Debug\netcoreapp3.1\Graph-BFS-DFS.csproj.CoreCompileInputs.cache
+C:\Users\Pak\source\repos\Graphs\DFS-BFS-queue\Graph-BFS-DFS\obj\Debug\netcoreapp3.1\Graph-BFS-DFS.AssemblyInfoInputs.cache
+C:\Users\Pak\source\repos\Graphs\DFS-BFS-queue\Graph-BFS-DFS\obj\Debug\netcoreapp3.1\Graph-BFS-DFS.AssemblyInfo.cs
+C:\Users\Pak\source\repos\Graphs\DFS-BFS-queue\Graph-BFS-DFS\obj\Debug\netcoreapp3.1\Graph-BFS-DFS.dll
+C:\Users\Pak\source\repos\Graphs\DFS-BFS-queue\Graph-BFS-DFS\obj\Debug\netcoreapp3.1\Graph-BFS-DFS.pdb
+C:\Users\Pak\source\repos\Graphs\DFS-BFS-queue\Graph-BFS-DFS\obj\Debug\netcoreapp3.1\Graph-BFS-DFS.genruntimeconfig.cache
